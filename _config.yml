@@ -13,7 +13,7 @@ style: styles-6  # grey
 
 #Profile information
 name: Henrikki Tenkanen
-tagline: Researcher <br> GeoData scientist <br> Full Stack Developer
+tagline: Researcher <br> GeoData scientist <br> Full Stack Developer <br> Entrepreneur
 pic: Henkka.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
