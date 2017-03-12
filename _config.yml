@@ -11,10 +11,9 @@ baseurl: '/cv' #change it according to your repository name
 #style: styles-5
 style: styles-6  # grey
 
-
 #Profile information
 name: Henrikki Tenkanen
-tagline: Researcher / Data scientist / Full Stack Developer
+tagline: Researcher / &#10; Data scientist / &#10; Full Stack Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
